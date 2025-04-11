@@ -1,9 +1,9 @@
 ### Hi, I'm Ahmad Oriza 👋 
  
-💻 12+ years in the IT industry  
-🎓 Founder of [CodePolitan](https://www.codepolitan.com) — a platform for learning coding & digital skills  
-🎯 Running [DevHandal](https://www.devhandal.id/) — helping people kickstart their tech career with scholarship
-📚 Passionate about teaching, mentoring, and content creation
+- 💻 12+ years in the IT industry  
+- 🎓 Founder of [CodePolitan](https://www.codepolitan.com) — a platform for learning coding & digital skills  
+- 🎯 Running [DevHandal](https://www.devhandal.id/) — helping people kickstart their tech career with scholarship
+- 📚 Passionate about teaching, mentoring, and content creation
 
 ---
 
@@ -18,5 +18,5 @@ I’m committed to helping others build their future in tech.
 
 ---
 
-> Follow me for regular updates on projects, tutorials, and community work ✨  
+Follow me for regular updates on projects, tutorials, and community work ✨  
 Let’s build and learn together!
